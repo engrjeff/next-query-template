@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "foo",
+      "database": "${workspaceFolder:next-query}/database/app.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
